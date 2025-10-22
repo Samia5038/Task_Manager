@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Task Management API
 
 A Spring Boot REST API that performs CRUD operations for task management using raw SQL with JdbcTemplate.
@@ -126,3 +127,6 @@ GET /tasks/stats
 - All SQL operations are performed using JdbcTemplate without any ORM
 - Constructor injection is used instead of @Autowired
 - The API follows RESTful conventions
+=======
+# Task_Manager
+>>>>>>> 43bbeb9cfd31448d6fb2bd7a1e707dfcf655f635
